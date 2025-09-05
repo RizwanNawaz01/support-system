@@ -4,7 +4,7 @@ A Laravel + Vue.js based Helpdesk system with dark mode support and OpenAI integ
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 Follow these steps to get the project running locally:
 
@@ -63,7 +63,7 @@ Follow these steps to get the project running locally:
 
 ---
 
-## ⚖️ Assumptions & Trade-offs
+## ⚖Assumptions & Trade-offs
 
 - Assumed authentication is required for creating or managing tickets.  
 - Implemented dark mode toggle using Vue Options API for simplicity.  
@@ -72,7 +72,7 @@ Follow these steps to get the project running locally:
 
 ---
 
-## 💡 What I’d Do With More Time
+## What I’d Do With More Time
 
 - Add role-based access control (admin vs. agent vs. user).  
 - Replace polling with WebSockets (Laravel Echo + Pusher/Redis).  
@@ -82,7 +82,7 @@ Follow these steps to get the project running locally:
 
 ---
 
-## 🔑 Environment Variables
+## Environment Variables
 
 The project uses a `.env` file for configuration. Example:
 
